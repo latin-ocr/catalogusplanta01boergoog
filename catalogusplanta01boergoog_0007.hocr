@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./catalogusplanta01boergoog_0007.png"; bbox 0 0 3698 5912; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 656 2653 1541 2785">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 656 2653 1541 2785">
+     <span class='ocr_line' id='line_1_1' title="bbox 656 2653 1541 2785; baseline 0.006 -5"><span class='ocrx_word' id='word_1_1' title='bbox 656 2695 1019 2784; x_wconf 73' lang='lat' dir='ltr'>FAsoloULUs</span> <span class='ocrx_word' id='word_1_2' title='bbox 1050 2698 1365 2785; x_wconf 75' lang='lat' dir='ltr'><strong>SECUNDUS.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1540 2653 1541 2658; x_wconf 53' lang='lat'><em>&#39;</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 507 3027 1524 3118">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 507 3027 1524 3118">
+     <span class='ocr_line' id='line_1_2' title="bbox 507 3027 1524 3118; baseline 0.001 -25"><span class='ocrx_word' id='word_1_4' title='bbox 507 3027 592 3095; x_wconf 78' lang='lat' dir='ltr'><strong>Fam.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 616 3027 668 3094; x_wconf 83' lang='lat' dir='ltr'><strong>XI.</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 713 3029 977 3118; x_wconf 51' lang='lat' dir='ltr'>Hypericaceae*</span> <span class='ocrx_word' id='word_1_7' title='bbox 989 3029 1074 3095; x_wconf 81' lang='lat' dir='ltr'>Fam.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1100 3027 1164 3094; x_wconf 86' lang='lat' dir='ltr'><strong>XV.</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1213 3029 1524 3096; x_wconf 71' lang='lat' dir='ltr'><strong>Ancistrocladaoeae</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1854 5912">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1854 5912">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1854 5912; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1854 5912; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
